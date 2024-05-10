@@ -9,4 +9,4 @@ redirect_from:
 
 👨‍💻I'm a 2-nd year graduate student at the East China Normal University.
 
-🔬My research interest include trustworthy NLP and LLM.
+🔬My research interests include trustworthy NLP and LLM.
