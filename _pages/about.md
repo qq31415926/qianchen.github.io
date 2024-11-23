@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-👨‍💻I'm a 2-nd year graduate student at the East China Normal University.
+👨‍💻I'm a 3-nd year graduate student at the East China Normal University.
 
 🔬My research interests include trustworthy NLP and LLM.
